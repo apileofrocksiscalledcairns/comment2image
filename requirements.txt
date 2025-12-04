@@ -1,0 +1,6 @@
+
+## config stuff
+you MUST create a file titled `config.ini` in the project dir. Just use the included
+`config.ini` as the template 
+
+## Run
